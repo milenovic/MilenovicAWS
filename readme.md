@@ -9,6 +9,7 @@ Currently implemented sensors:
 
 ## Schematics
 See Schematic_MilenovicAWS.svg image.
+![schematics](https://github.com/milenovic/MilenovicAWS/blob/master/Schematic_MilenovicAWS.svg)
 
 ## Notes
 
